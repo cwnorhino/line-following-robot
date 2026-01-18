@@ -35,13 +35,13 @@ The ESP32 continuously processes these sensor readings and adjusts the motor spe
 ## Block Diagram
 
 **Flow:**  
-![[assets/fo2.jpeg]]
+![assets/fo2.jpeg]
 
 ---
 
 ## Circuit Diagram
 
-![[assets/fo3.jpeg]]
+![assets/fo3.jpeg]
 
 ---
 
@@ -80,7 +80,7 @@ The ESP32 communicates with the L293D motor driver to control the motors. A buck
 
 ## Final Project Image
 
-## ![[assets/fo.jpeg]]
+## ![assets/fo.jpeg]
 
 ## Problems and Future Scope
 
